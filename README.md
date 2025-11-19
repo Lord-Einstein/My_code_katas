@@ -1,2 +1,2 @@
 # My_code_katas
- All my kata code work documented here.
+ All my kata code work stores and documented here.
